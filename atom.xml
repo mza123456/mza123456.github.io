@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mza123456.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-10-05T08:16:13.832Z</updated>
+    <updated>2020-10-07T06:38:21.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mza123456.github.io/"/>
     <link rel="self" href="https://mza123456.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://mza123456.github.io/images/avatar.png</logo>
     <icon>https://mza123456.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[解决mathtype在office安装中的错误问题]]></title>
+        <id>https://mza123456.github.io/post/jie-jue-mathtype-zai-office-an-zhuang-zhong-de-cuo-wu-wen-ti/</id>
+        <link href="https://mza123456.github.io/post/jie-jue-mathtype-zai-office-an-zhuang-zhong-de-cuo-wu-wen-ti/">
+        </link>
+        <updated>2020-10-07T06:21:59.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="office2016中mathtype出错解决办法">office2016中mathtype出错解决办法</h1>
+<p>如果电脑中word和ppt安装新版mathtype出问题</p>
+<ol>
+<li>
+<p>跟axmath冲突，是因为mathtype劫持了axmath，解决办法为先安装mathtype再安装axmath</p>
+</li>
+<li>
+<p>要解决mathtype在word及ppt任务栏显示的问题，需要复制一些文件到相应的文件夹，然后重启word，具体如下</p>
+<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/mza123456/Figurebed/img/20201007143307.png" alt="" loading="lazy"></figure>
+</li>
+</ol>
+<p><a href="https://jingyan.baidu.com/article/a17d5285d9b9348099c8f263.html">百度经验解决mathtype在office出错</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数学格式测试]]></title>
         <id>https://mza123456.github.io/post/shu-xue-ge-shi-ce-shi/</id>
