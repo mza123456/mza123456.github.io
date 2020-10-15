@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mza123456.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-10-07T06:38:21.182Z</updated>
+    <updated>2020-10-15T06:35:03.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mza123456.github.io/"/>
     <link rel="self" href="https://mza123456.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://mza123456.github.io/images/avatar.png</logo>
     <icon>https://mza123456.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[win10资源管理器字体大小调整]]></title>
+        <id>https://mza123456.github.io/post/win10-zi-yuan-guan-li-qi-zi-ti-da-xiao-diao-zheng/</id>
+        <link href="https://mza123456.github.io/post/win10-zi-yuan-guan-li-qi-zi-ti-da-xiao-diao-zheng/">
+        </link>
+        <updated>2020-10-15T06:30:20.000Z</updated>
+        <content type="html"><![CDATA[<p>1、打开regedit</p>
+<p>2、找到WindowMetrics，路径为\HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics</p>
+<p>3、右侧找到IconFont，双击，0000这一项第一个数值是F4，代表9号大小，我自己改成了F0，代表12号大小，我这里的修改方法是点击F4后面按一下Backspace，然后点一下F键就删掉了F4增加了F0。然后重启或者注销再登录就有效果了。</p>
+<p>4、IconFont是修改图标字体大小，同时还有CaptionFont、MenuFont、MessageFont、SMCaptionFont、StatusFont等等，具体哪个对应哪个字体记不清了，如果都嫌小可以全部调整为F0。可以修改磁贴，右键菜单，标题栏等等字体的大小<br>
+<a href="https://www.zhihu.com/question/59560273/answer/514375783l">百度经验解决mathtype在office出错</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[解决mathtype在office安装中的错误问题]]></title>
         <id>https://mza123456.github.io/post/jie-jue-mathtype-zai-office-an-zhuang-zhong-de-cuo-wu-wen-ti/</id>
