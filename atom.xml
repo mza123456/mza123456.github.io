@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mza123456.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-10-27T08:11:07.911Z</updated>
+    <updated>2020-11-08T03:42:03.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mza123456.github.io/"/>
     <link rel="self" href="https://mza123456.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://mza123456.github.io/images/avatar.png</logo>
     <icon>https://mza123456.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[GGB点的大小修改脚本]]></title>
+        <id>https://mza123456.github.io/post/ggb-dian-de-da-xiao-xiu-gai-jiao-ben/</id>
+        <link href="https://mza123456.github.io/post/ggb-dian-de-da-xiao-xiu-gai-jiao-ben/">
+        </link>
+        <updated>2020-11-08T03:41:20.000Z</updated>
+        <content type="html"><![CDATA[<p>var allPoints = ggbApplet.getAllObjectNames(&quot;point&quot;);<br>
+for (index in allPoints) {<br>
+var commandStr = &quot;SetCaption(&quot; + allPoints[index] + &quot;, &quot;<span class='katex-error' title='ParseError: KaTeX parse error: Expected &#039;}&#039;, got &#039;EOF&#039; at end of input: \\large{%n}'>\\large{%n}</span>&quot;)&quot;;<br>
+ggbApplet.evalCommand(commandStr);<br>
+}</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ 软件安装教程]]></title>
         <id>https://mza123456.github.io/post/ruan-jian-an-zhuang-jiao-cheng/</id>
