@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mza123456.github.io</id>
     <title>Gridea</title>
-    <updated>2022-04-13T02:15:39.482Z</updated>
+    <updated>2022-04-13T02:58:48.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mza123456.github.io"/>
     <link rel="self" href="https://mza123456.github.io/atom.xml"/>
@@ -10,6 +10,96 @@
     <logo>https://mza123456.github.io/images/avatar.png</logo>
     <icon>https://mza123456.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[上能SP-320K-H  阳光SG320HX 技术参数对比]]></title>
+        <id>https://mza123456.github.io/post/shang-neng-sp-320k-h-yang-guang-sg320hx-ji-zhu-can-shu-dui-bi/</id>
+        <link href="https://mza123456.github.io/post/shang-neng-sp-320k-h-yang-guang-sg320hx-ji-zhu-can-shu-dui-bi/">
+        </link>
+        <updated>2022-04-13T02:52:55.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="span-stylecolorbluesp-320k-hspan"><span style="color:blue">SP-320K-H</span></h1>
+<h2 id="第一节技术参数表">第一节技术参数表</h2>
+<ol>
+<li>
+<p>输入参数</p>
+<table>
+<thead>
+<tr>
+<th>输入参数</th>
+<th>参数</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>最大输入电压</td>
+<td>1500V</td>
+</tr>
+<tr>
+<td>额定输入电压</td>
+<td>1080V</td>
+</tr>
+<tr>
+<td>MPPT电压跟踪范围</td>
+<td>500 ~ 1500V</td>
+</tr>
+<tr>
+<td>MPPT最大输入电流</td>
+<td>45A</td>
+</tr>
+<tr>
+<td>MPPT路数</td>
+<td>12</td>
+</tr>
+<tr>
+<td>最大直流输入路数</td>
+<td>24(可选28/32)</td>
+</tr>
+</tbody>
+</table>
+<ol start="2">
+<li>输出参数</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>输出参数</th>
+<th>参数</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>额定输出功率</td>
+<td>320kW</td>
+</tr>
+<tr>
+<td>最大输出功率&lt;</td>
+<td>352kW</td>
+</tr>
+<tr>
+<td>额定电网电压</td>
+<td>800V,3W+PE</td>
+</tr>
+<tr>
+<td>电网电压范围</td>
+<td>640V ~ 920V</td>
+</tr>
+<tr>
+<td>最大输出电流</td>
+<td>254A</td>
+</tr>
+<tr>
+<td>输出电流谐波畸变率（额定功率）</td>
+<td><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>&lt;</mo><mn>3</mn></mrow><annotation encoding="application/x-tex">&lt;3%</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.5782em;vertical-align:-0.0391em;"></span><span class="mrel">&lt;</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">3</span></span></span></span></td>
+</tr>
+<tr>
+<td>功率因数可调范围</td>
+<td>0.8超前...0.8滞后</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[图床test]]></title>
         <id>https://mza123456.github.io/post/tu-chuang-test/</id>
