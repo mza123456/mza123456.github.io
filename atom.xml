@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mza123456.github.io</id>
     <title>Gridea</title>
-    <updated>2022-04-13T02:58:48.355Z</updated>
+    <updated>2022-04-13T03:21:26.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mza123456.github.io"/>
     <link rel="self" href="https://mza123456.github.io/atom.xml"/>
@@ -16,8 +16,9 @@
         <link href="https://mza123456.github.io/post/shang-neng-sp-320k-h-yang-guang-sg320hx-ji-zhu-can-shu-dui-bi/">
         </link>
         <updated>2022-04-13T02:52:55.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="span-stylecolorbluesp-320k-hspan"><span style="color:blue">SP-320K-H</span></h1>
-<h2 id="第一节技术参数表">第一节技术参数表</h2>
+        <content type="html"><![CDATA[<h1 id="上能span-stylecolorbluesp-320k-hspan-阳光span-stylecolororangesg320hxspan-技术参数对比">上能<span style="color:blue">SP-320K-H</span>  阳光<span style="color:orange">SG320HX</span>  技术参数对比</h1>
+<h1 id="1-sp-320k-h">1、SP-320K-H</h1>
+<h2 id="11-技术参数表">1.1、技术参数表</h2>
 <ol>
 <li>
 <p>输入参数</p>
@@ -39,7 +40,7 @@
 </tr>
 <tr>
 <td>MPPT电压跟踪范围</td>
-<td>500 ~ 1500V</td>
+<td>500-1500V</td>
 </tr>
 <tr>
 <td>MPPT最大输入电流</td>
@@ -55,9 +56,9 @@
 </tr>
 </tbody>
 </table>
-<ol start="2">
-<li>输出参数</li>
-</ol>
+</li>
+<li>
+<p>输出参数</p>
 <table>
 <thead>
 <tr>
@@ -80,7 +81,7 @@
 </tr>
 <tr>
 <td>电网电压范围</td>
-<td>640V ~ 920V</td>
+<td>640V-920V</td>
 </tr>
 <tr>
 <td>最大输出电流</td>
@@ -88,7 +89,7 @@
 </tr>
 <tr>
 <td>输出电流谐波畸变率（额定功率）</td>
-<td><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>&lt;</mo><mn>3</mn></mrow><annotation encoding="application/x-tex">&lt;3%</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.5782em;vertical-align:-0.0391em;"></span><span class="mrel">&lt;</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">3</span></span></span></span></td>
+<td>&lt; 3 %</td>
 </tr>
 <tr>
 <td>功率因数可调范围</td>
@@ -97,7 +98,85 @@
 </tbody>
 </table>
 </li>
+<li>
+<p>系统特性</p>
+<table>
+<thead>
+<tr>
+<th>系统特性</th>
+<th>参数</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>隔离方式</td>
+<td>无变压器</td>
+</tr>
+<tr>
+<td>最大效率</td>
+<td>99.03%</td>
+</tr>
+<tr>
+<td>中国效率</td>
+<td>98.58%</td>
+</tr>
+<tr>
+<td>夜间自耗电</td>
+<td>&lt; 3.5W</td>
+</tr>
+<tr>
+<td>防护等级</td>
+<td>IP66</td>
+</tr>
+<tr>
+<td>运行温度范围</td>
+<td>-30℃ ~ +60℃</td>
+</tr>
+<tr>
+<td>最高运行海拔</td>
+<td>5000m</td>
+</tr>
+<tr>
+<td>冷却方式</td>
+<td>智能风冷</td>
+</tr>
+<tr>
+<td>供电模式</td>
+<td>自供电</td>
+</tr>
+<tr>
+<td>通讯接口</td>
+<td>PLC（标配）/RS485（可选）</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li>
+<p>机械参数</p>
+<table>
+<thead>
+<tr>
+<th>机械参数</th>
+<th>参数</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>外形尺寸(宽/高/深)</td>
+<td>1350×735×350mm</td>
+</tr>
+<tr>
+<td>重量</td>
+<td>140kg</td>
+</tr>
+</tbody>
+</table>
+</li>
 </ol>
+<h2 id="12产品特色">1.2产品特色</h2>
+<figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/mza123456/typorapicture/main/202204131117793.png" alt="image-20220413111740354" loading="lazy"></figure>
+<h2 id="13系统电路框图">1.3系统电路框图</h2>
+<figure data-type="image" tabindex="2"><img src="https://raw.githubusercontent.com/mza123456/typorapicture/main/202204131119949.png" alt="image-20220413111916611" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
